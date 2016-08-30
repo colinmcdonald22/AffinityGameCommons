@@ -1,0 +1,6 @@
+name: AffinityGameCommons
+author: 'MinecraftAffinity Development Team'
+version: 1.0
+main: net.minecraftaffinity.AffinityGameCommons.AffinityGameCommons
+depend: [AffinityCommons]
+loadbefore: [WorldEdit]
